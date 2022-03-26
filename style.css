@@ -1,0 +1,630 @@
+html,body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+/* Contact Bar Starts */
+
+nav
+{
+    background-color: black;
+}
+
+nav li
+{
+    display: inline;
+    color: white;
+}
+
+nav div
+{
+    display: inline;
+    
+}
+
+nav a
+{
+    color: white;
+    margin-left: 15px;
+}
+
+
+
+.contact1
+{
+    margin-right: 750px;
+}
+
+.contact2
+{
+    background-color: rgb(65, 60, 60);
+    padding-top: 5px;    
+    padding-bottom: 5px;
+}
+
+.day
+{
+    margin-right: 390px;
+    font-size: 30px;
+
+    
+}
+
+.bar{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.contact1 i
+{
+color: red;
+}
+
+.contact3 i
+{
+    color: red;
+}
+
+.contact4 a
+{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.contact4 a:hover
+{
+    background-color: red;
+    color: blue;
+    padding-top: 35px;
+    padding-bottom: 25px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+#home
+{
+    background-color: red;
+    padding-top: 35px;
+    padding-bottom: 25px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+/* Contact Ends */
+
+/* Mian Body STrarts */
+
+.banner
+{
+    background-image: linear-gradient(rgba(24, 26, 24, 0.8),rgba(32, 36, 32, 0.6)), url(./hero-bg.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: 100% 100%;
+    
+}
+
+.banner1
+{
+    
+    color: white;
+    padding-top: 180px;
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+.banner1 a
+{
+    padding: 5px;
+    border: white 2px solid;
+    text-decoration: none;
+    color: white;
+}
+
+.banner1 a:hover
+{
+    background-color: red;
+}
+
+/* Main Body Ends  */
+
+/* About Us Starts */
+
+.aboutus li 
+{
+    color: rgba(138, 136, 136, 0.938);
+}
+
+.aboutus p
+{
+    color: rgba(138, 136, 136, 0.938);
+
+}
+
+.aboutus i
+{
+    color: red;
+}
+
+.aboutus div
+{
+    display: inline-block;
+    width: 400px;
+    padding-left: 80px;
+    font-size: 17px;
+}
+
+.aboutus img
+{
+    width: 550px;
+    height: 400px;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+.aboutus
+{
+    padding-bottom: 40px;
+}
+
+/* 1 2 3 Starts */
+
+.starts1 div
+{
+    
+    margin-left: 28px;
+    display: inline-block;
+    width: 350px;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+
+    
+}
+
+.starts1 div:hover
+{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.starts1 label
+{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.starts1-subdiv li
+{
+    display: inline-block;
+    width: 200px;
+    margin-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.starts1
+{
+    padding-bottom: 30px;
+}
+
+.starts1-subdiv
+{
+    background-color: rgb(214, 209, 209);
+    
+}
+
+.starts1-subdiv li:hover
+{
+    color: red;
+    font-size: 50px;
+}
+
+
+
+
+/* 1 2 3 Ends */
+
+
+/* Servicse Starts */
+
+.services
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+.serv
+{
+    padding-bottom: 40px;
+}
+.services1
+{
+    padding-bottom: 30px;
+}
+
+.services1 div
+{
+    margin-left: 28px;
+    display: inline-block;
+    width: 350px;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 25%);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+.services1 div:hover
+{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.services2 div
+{
+    margin-left: 28px;
+    display: inline-block;
+    width: 350px;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 25%);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+.services2 div:hover
+{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.services1 i
+{
+    color: white;
+    background-color: red;
+    padding: 10px;
+}
+
+.services2 i
+{
+    color: white;
+    background-color: red;
+    padding: 10px;
+}
+
+/* Services Ends */
+
+/* Call To Action Starts */
+
+.action1
+{
+ text-decoration: none;
+ text-align: center;
+ padding-top: 80px;
+ color: white;
+ font-size: 20px;
+}
+
+.action1 p
+{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.action
+{
+    background-image: linear-gradient(rgba(24, 26, 24, 0.8),rgba(32, 36, 32, 0.6)),url("https://cdn.pixabay.com/photo/2018/02/27/06/30/skyscrapers-3184798__480.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 400px;
+}
+
+.action1 a
+{
+    padding: 5px;
+    border: white 2px solid;
+    text-decoration: none;
+    color: white;
+}
+
+.action1 a:hover
+{
+    background-color: red;
+}
+
+/* Call To Action Ensd */
+
+.pricing1
+{
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+}
+
+.pricing2 div
+{
+    display: inline-block;
+    width: 350px;
+    margin-left: 65px;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 25%);
+    height: 300px;
+    border-radius: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.pricing2 li
+{
+    padding-right: 35px;
+}
+
+.pricing2 a
+{
+    background-color: red;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+.business
+{
+    background-color: red;
+    color: white;
+}
+
+.business a
+{
+    background-color: rgb(231, 112, 112);
+}
+
+.dev
+{
+    font-size: 30px;
+}
+
+.dev:hover
+{
+    font-size: 35px;
+}
+
+/* Pricing Ends */
+
+/* Team Starts */
+
+.team1
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+.team2 div
+{
+    display: inline-block;
+    width: 330px;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 25%);
+    border-radius: 20px;
+    margin-left: 65px;
+    text-align: center;
+
+}
+
+.team2 li
+{
+    display: inline-block;
+}
+
+.team2-subdiv img
+{
+    padding-top: 20px;
+    width: 120px;
+    border-radius: 50%;
+}
+
+.team2-subdiv a
+{
+    margin-right: 20px;
+}
+
+/*  Team Ends */
+
+
+/* Contact Us Strts */
+
+.contactus
+{
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.contactus1 div
+{
+    display: inline-block;
+    width: 250px;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 25%);
+    margin-left: 60px;
+}
+
+.contactus2
+{
+    padding-top: 20px;
+    padding-right: 140px;
+    padding-left: 140px;
+    text-align: center;
+}
+
+.contactus3
+{
+    text-align: center;
+    padding-top: 37px;
+  
+ 
+}
+
+.contactus1 i
+{
+    color: red;
+}
+
+/* contact  Ends */
+
+/* Map Starts */
+
+.map div
+{
+    display: inline-block;
+    width: 300px;
+    margin-left: 60px;
+}
+
+.map1 iframe
+{
+    width: 530px;
+    height: 380px;
+}
+
+.map2 form
+{
+    margin-left: 110px;
+    font-size: 20px;
+    
+}
+.map3 div
+{
+    width: 500px;
+    display: inline-block;
+    font-size: 120px;
+    margin-right: 200px;
+    padding-bottom: 10px;
+   
+}
+
+.map4 input
+{
+    padding: 20px;
+    padding-right: 45px;
+}
+
+.map5 input
+{
+    padding: 20px;
+    padding-right: 305px;
+}
+
+.map6 div
+{
+    width: 500px;
+    padding-bottom: 10px;
+   
+}
+
+.map8 input
+{
+    padding: 20px;
+    padding-right: 305px;
+    height: 120px;
+}
+
+.map7 div
+{
+    width: 500px;
+    
+}
+.map
+{
+    padding-bottom: 30px;
+}
+
+.map9
+{
+    padding-top: 20px;
+    
+}
+.map10 div
+{
+    margin-left: 250px;
+}
+
+.map9 a
+{
+    background-color: red;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+/* Map Ends */
+
+/* Last End */
+
+.end div
+{
+    display: inline-block;
+    width: 260px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.end1 div
+{
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 25%);
+    text-align: center;
+    padding-top: 35px;
+}
+
+.end1 li
+{
+    display: inline-block;
+    padding-right: 20px;
+    
+}
+
+.link a
+{
+    display: block;
+    padding: 10px;
+    color: red;
+}
+
+.our a
+{
+    display: block;
+    padding: 10px;
+    color: red;
+}
+
+.news 
+{
+    padding-bottom: 60px;
+ 
+}
+
+/* .news h1
+{
+    padding-bottom: 84px;
+} */
+
+.news div
+{
+    width: 120px;
+    padding-bottom: 60px;
+}
+.end
+{
+    background-color: rgb(172, 164, 164);
+}
+
+
+
+
+
+
+
+
